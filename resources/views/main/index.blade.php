@@ -16,7 +16,7 @@
 
             @guest("web")
                     <a href="{{route("login")}}" class=" text-md no-underline text-grey-darker hover:text-blue-dark ml-2 px-1">Войти</a>
-                @endguest
+            @endguest
 
         </div>
         <h1>Главная страница</h1>
